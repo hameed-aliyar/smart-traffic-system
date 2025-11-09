@@ -4,8 +4,8 @@
 ![C++](https://img.shields.io/badge/Language-C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
-An **Arduino-based Smart Traffic Management System** integrating **pedestrian control, Bluetooth connectivity, rain detection, and jaywalking alerts**.
-This project simulates a real-world intelligent intersection that adapts to conditions like traffic density, pedestrian requests, and environmental changes.
+An **Arduino-based Smart Traffic Management System prototype** integrating **pedestrian control, Bluetooth connectivity, rain detection, obstacle sensing, and jaywalking alerts**. This system simulates a real-world intelligent intersection that responds to **pedestrian requests**, monitors **environmental conditions**, enhances **road safety through sensor-based alerts**, and communicates **real-time traffic status** via an **LCD and Bluetooth module**.
+
 
 ---
 
