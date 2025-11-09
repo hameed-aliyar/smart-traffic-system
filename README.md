@@ -240,8 +240,8 @@ class C1,C2,C3,C4,C5 output;
 
 ## Authors
 
-**Albert Prebuji, Abdul Hameed T A, Ashwin Shaju, Abel Ginet, Ashish Shaiju, Muhammed Esa**
- *Smart Traffic Control System — 2025*
+**Albert Prebuji, Abdul Hameed T A, Ashwin Shaju, Abel Ginet, Ashish Shaiju, Muhammed Esa**  
+*Smart Traffic Control System — 2025*
 
 > Designed for educational and experimental use with Arduino microcontrollers.
 
